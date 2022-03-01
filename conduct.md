@@ -46,9 +46,9 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not leave assignments for the last day.
+- Students should not ask for extensions without good reason.
+- Students should not contact the professor within 24 hours of a deadline for an extension.
 
 ### Communication
 
