@@ -30,9 +30,9 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not arrive late to class or labs unless they have a valid excuse.
+- Students should not be absent from class or lab unless it is an excused absence, or if you have communicated the situation with the professor.
+- Students should make their best effort to not come to book club class sessions without reading the assigned readings beforehand.
 
 ### Deadlines
 
