@@ -15,7 +15,7 @@ TODO: Write an introductory paragraph.
 #### Unacceptable Conduct
 
 - TODO
-- TODO
+- TODO 
 - TODO
 
 ### Attendance
@@ -30,9 +30,10 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not arrive late to class if it can be helped.
+- Students should not be absent from class or lab unless it is an excused absence.
+- Students should not come to book club class sessions without reading the required assigned readings
+
 
 ### Deadlines
 
