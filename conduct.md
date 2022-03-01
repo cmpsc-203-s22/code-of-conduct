@@ -49,6 +49,7 @@ TODO: Write an introductory paragraph.
 - Students should be mindful of assignment due dates and work on them accordingly.
 - Students should not ask for extensions without good reason.
 - Students should not contact the professor within 24 hours of a deadline for an extension.
+- Students should not ask for an extension without privately discussing it with the professor.
 
 ### Communication
 
