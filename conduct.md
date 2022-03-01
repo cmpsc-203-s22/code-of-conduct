@@ -91,6 +91,8 @@ TODO: Write an introductory paragraph.
 - Team members should finalize decisions when the team reaches a majority vote.
 - Team members should consider and discuss all possible ideas of each student before moving forward.
 - Team members should not take final decisions personally and criticize ideas, not team members.
+- Team members should document how they reached the final decisions.
+- Team members should make space for quieter voices on the team to speak.
 
 #### Unacceptable Conduct
 
