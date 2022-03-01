@@ -104,9 +104,9 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Team members should consider and discuss all possible ideas of each student before moving forward.
+- Decisions should be finalized when a team reaches a majority vote.
+- Decisions should not be taken personally, and students should criticize ideas, not team members.
 
 #### Unacceptable Conduct
 
