@@ -41,9 +41,8 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 - Students should submit their work before the given deadline.
-- Students should contact the professor if they have conflicts/emergencies.
-- Students should voice if they need extensions on their work 24 hours in advance.
-
+- Students should contact the professor if they have conflicts/emergencies and/or need extensions on their work 24 hours in advance.
+- Students should be aware of deadlines and get assistance for assignments prior to end of deadlines.
 #### Unacceptable Conduct
 
 - TODO
