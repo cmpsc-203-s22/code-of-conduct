@@ -24,9 +24,10 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should arrive to class on time 
+- Students should give prior notice if they are late to class, have conflicts with other classes, or are going to be absent before the class begins.
+- Students should prepared to class
+- Students who are late should check in with the professor and class mates in order to stay caught up with work
 
 #### Unacceptable Conduct
 
