@@ -36,7 +36,7 @@ Attendance is an important part of the teamwork this class requires. Students ar
 
 ### Deadlines
 
-Similar to meeting attendance requirements,  meeting deadlines is extremely important. Ensuring work is done on time, if not earlier, is vital to staying on track for the semester and keeping your group moving forward. Work should be submitted before deadlines and with time for reviews to be conducted and edits to be made. Extensions should be requested early if conflicts are likely to arise. 
+Similar to meeting attendance requirements,  meeting deadlines is extremely important. Ensuring work is done on time, if not earlier, is vital to staying on track for the semester and keeping your group moving forward. Work should be submitted before deadlines and with time for reviews to be conducted and edits to be made. Extensions should be requested early if conflicts are likely to arise.
 
 #### Acceptable Conduct
 
