@@ -4,7 +4,7 @@
 
 ### Overall Conduct
 
-Attendance is an important part of the teamwork this class requires. This includes arriving for class on time and prepared for the day's activities. Students are responsible for completing any required work prior to class. Students are also responsible for informing the professor if they are going to be late or absent. It is the student's responsibility to stay caught up on work if they are late or absent. Only valid excuses will justify an absence. These excuses should be given with as much notice as possible.
+TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
@@ -20,7 +20,7 @@ Attendance is an important part of the teamwork this class requires. This includ
 
 ### Attendance
 
-TODO: Write an introductory paragraph.
+Attendance is an important part of the teamwork this class requires. This includes arriving for class on time and prepared for the day's activities. Students are responsible for completing any required work prior to class. Students are also responsible for informing the professor if they are going to be late or absent. It is the student's responsibility to stay caught up on work if they are late or absent. Only valid excuses will justify an absence. These excuses should be given with as much notice as possible.
 
 #### Acceptable Conduct
 
@@ -36,7 +36,7 @@ TODO: Write an introductory paragraph.
 
 ### Deadlines
 
-TODO: Write an introductory paragraph.
+Similar to meeting attendance requirements,  meeting deadlines is extremely important. Ensuring work is done on time, if not earlier, is vital to staying on track for the semester and keeping your group moving forward. Work should be submitted before deadlines and with time for reviews to be conducted and edits to be made. Extensions should be requested early if conflicts are likely to arise. 
 
 #### Acceptable Conduct
 
