@@ -4,7 +4,7 @@
 
 ### Overall Conduct
 
-TODO: Write an introductory paragraph.
+Attendance is an important part of the teamwork this class requires. This includes arriving for class on time and prepared for the day's activities. Students are responsible for completing any required work prior to class. Students are also responsible for informing the professor if they are going to be late or absent. It is the student's responsibility to stay caught up on work if they are late or absent. Only valid excuses will justify an absence. These excuses should be given with as much notice as possible.
 
 #### Acceptable Conduct
 
