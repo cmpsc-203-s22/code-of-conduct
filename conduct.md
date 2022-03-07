@@ -51,9 +51,8 @@ Meeting deadlines is extremely important and ensuring that work is completed on 
 #### Unacceptable Conduct
 
 - Students should be mindful of assignment due dates and work on them accordingly.
-- Students should not ask for extensions without good reason.
-- Students should not contact the professor within 24 hours of a deadline for an extension.
-- Students should not ask for an extension without privately discussing it with the professor.
+- Students should not request an extension without serious and extenuating circumstances.
+- Students who have a situation where they need an extension should contact the professor as soon as possible and should not wait until the last minute.
 
 ### Communication
 
