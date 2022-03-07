@@ -30,7 +30,7 @@ TODO: Write an introductory paragraph.
 
 -  Practical Session: Friday from 10:40 am - 11:40 am
 
--  Laboratory Session: Tuesday from 2:50 pm - 4:40 pm
+-  Laboratory Session: Tuesday from 2:50 pm - 4:40 pm 
 
 - Students should give at least one week prior notice if they will be late to class, have conflicts with other classes, or will be absent before the class begins.
 - Students should come to class prepared by completing labs, completing practicals, and reading Discord to know any information needed for lessons.
