@@ -94,9 +94,9 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not talk over others or prevent others from submitting their ideas.
+- Students should not commit and push code that falls outside of the group's initial intent for a project.
+- Students should not avoid reviewing documentation after a decision for the project has been made.
 
 ### Postmortems
 
