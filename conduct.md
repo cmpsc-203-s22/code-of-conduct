@@ -84,7 +84,7 @@ TODO: Write an introductory paragraph.
 
 ### Decisions
 
-TODO: Write an introductory paragraph.
+Decisions are the process by which team members collectively discuss their project ideas, define their goals, analyze problems, and make plans to achieve the goal. Teams must have a clearly defined process for making decisions before they start their projects so that they can effectively communicate with each other and make important decisions that enable them to write successful and sustainable software.
 
 #### Acceptable Conduct
 
