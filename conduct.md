@@ -104,9 +104,9 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- Team members should consider and discuss all possible ideas of each student before moving forward.
-- Decisions should be finalized when a team reaches a majority vote.
-- Decisions should not be taken personally, and students should criticize ideas, not team members.
+- Students should reflect on what went right/wrong with a particular process.
+- Students should provide constructive feedback based on their reflections.
+- Students should document these findings and amend the process to prevent the same mistakes.
 
 #### Unacceptable Conduct
 
