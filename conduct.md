@@ -40,9 +40,9 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should submit their work before the given deadline.
+- Students should contact the professor and make special arrangements for their assignments if they have conflicts/emergencies.
+- Students should be aware of deadlines and get assistance for assignments prior to end of deadlines.
 
 #### Unacceptable Conduct
 
