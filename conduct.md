@@ -20,7 +20,7 @@ TODO: Write an introductory paragraph.
 
 ### Attendance
 
-TODO: Write an introductory paragraph.
+Attending class is vital to learning and critical to the teamwork this course requires. Because of this, attendance is factored into a student's overall grade in this course. Students are responsible for ensuring they arrive to class on time and prepared for the day's activities.
 
 #### Acceptable Conduct
 
@@ -40,7 +40,7 @@ TODO: Write an introductory paragraph.
 
 ### Deadlines
 
-TODO: Write an introductory paragraph.
+Meeting deadlines is extremely important and ensuring that work is completed on time, if not earlier, is vital to staying on track for the semester and keeping your group moving forward. Work should be submitted before deadlines and with time for reviews to be conducted and edits to be made.
 
 #### Acceptable Conduct
 
