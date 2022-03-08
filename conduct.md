@@ -102,7 +102,7 @@ Decisions are the process by which team members collectively discuss their proje
 
 ### Postmortems
 
-TODO: Write an introductory paragraph.
+Postmortems are an evaluation of performances after implementation. The goal is to identify what worked and what did not and describe what needed to be done differently. When a postmortem is done correctly, all team members should have a better understanding of how to avoid the same mistakes in future projects.
 
 #### Acceptable Conduct
 
