@@ -35,8 +35,8 @@ Attending class is vital to learning and critical to the teamwork this course re
 #### Unacceptable Conduct
 
 - Students should not arrive late to class or labs unless they have a valid excuse.
-- Students should not be absent from class or lab unless it is an excused absence, or if you have communicated the situation with the professor.
-- Students should make their best effort to not come to book club class sessions without reading the assigned readings beforehand.
+- Students should not be absent from class or lab unless it is an excused absence or if you have communicated the situation with the professor.
+- Students should not come to book club class sessions without reading the assigned materials beforehand.
 
 ### Deadlines
 
