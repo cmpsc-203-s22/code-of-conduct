@@ -4,7 +4,7 @@
 
 ### Overall Conduct
 
-Overall conduct is the general way students are expected to behave during any assignment, discussion or interaction within this class. Students should follow these rules whether they are attending a class session or working with others to complete assignments outside of class.
+Overall conduct is the general way students are expected to behave during any interaction within this class.  To be successful, students should read and follow all parts of the conduct guide.  Aside from this guide, students should abide by the Honor Code for all submitted work and adhere to the three pillars--humility, respect, and trust--in all aspects of this course.  
 
 #### Acceptable Conduct
 
