@@ -8,9 +8,10 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should be respectful to the professor and peers.
+- Students should finish work on time and ask for help if it is needed.
+- Students should be attentive in class and utilize the material to finish assignments.
+- Students should come to class having done the readings and be prepared to engage in discussions or activities.
 
 #### Unacceptable Conduct
 
