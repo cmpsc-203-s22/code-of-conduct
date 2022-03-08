@@ -4,7 +4,7 @@
 
 ### Overall Conduct
 
-TODO: Write an introductory paragraph.
+Overall conduct is the general way students are expected to behave during any assignment, discussion or interaction within this class. Students should follow these rules whether they are attending a class session or working with others to complete assignments outside of class.
 
 #### Acceptable Conduct
 
