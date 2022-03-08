@@ -112,9 +112,9 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should avoid omitting failures and should detail the causes for errors.
+- Students should not direct the blame for failures on any particular person.
+- Students should not write vaguely about failures or mention an issue without going into detail.
 
 ### Conflicts
 
