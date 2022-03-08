@@ -15,9 +15,10 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not hold onto their opinions to avoid hurting someone's feelings.
+- Students should not talk over others while they are expressing their opinions.
+- Students should not get attached to their ideas and instead be open to more ideas.
+- Students should not do tasks other than the tasks they are assigned.
 
 ### Attendance
 
