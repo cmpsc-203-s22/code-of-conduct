@@ -98,7 +98,7 @@ TODO: Write an introductory paragraph.
 
 - Students should not talk over others or prevent others from submitting their ideas.
 - Students should not commit and push code that falls outside of the group's initial intent for a project.
-- Students should not update documentation or code without consulting the group about it.
+- Students should update documentation or code in ways that are consistent with the decisions made by the team.
 
 ### Postmortems
 
