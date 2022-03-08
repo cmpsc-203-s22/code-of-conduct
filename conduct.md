@@ -16,9 +16,9 @@ TODO: Write an introductory paragraph.
 #### Unacceptable Conduct
 
 - Students should not hold onto their opinions to avoid hurting someone's feelings.
-- Students should not talk over others while they are expressing their opinions.
-- Students should not get attached to their ideas and instead be open to more ideas.
-- Students should not do tasks other than the tasks they are assigned.
+- Students should not disparage others or prevent others from expressing opinions.
+- Students should not take criticism personally and should provide constructive criticism to others.
+- Students should not do group work that is already assigned to other team members.
 
 ### Attendance
 
