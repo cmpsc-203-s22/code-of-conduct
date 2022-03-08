@@ -106,9 +106,9 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should reflect on what went right or wrong with a particular process.
+- Students should provide constructive feedback based on their reflections.
+- Students should document these findings and amend the process to prevent the same mistakes.
 
 #### Unacceptable Conduct
 
