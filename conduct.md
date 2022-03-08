@@ -89,10 +89,10 @@ Decisions are the process by which team members collectively discuss their proje
 
 #### Acceptable Conduct
 
-- Teams should finalize decisions when the team reaches a majority vote.
-- Teams should consider and discuss all possible ideas of each student before moving forward.
-- Teams should document how they reached the final decisions.
-- Teams should make space for quieter voices on the team to speak.
+- Students should finalize decisions when the team reaches a majority vote.
+- Students should consider and discuss all possible ideas of each student before moving forward.
+- Students should document how they reached the final decisions.
+- Students should make space for quieter voices on the team to speak.
 - Students should not take final decisions personally.
 
 #### Unacceptable Conduct
