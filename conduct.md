@@ -20,35 +20,39 @@ TODO: Write an introductory paragraph.
 
 ### Attendance
 
-TODO: Write an introductory paragraph.
+Attending class is vital to learning and critical to the teamwork this course requires. Because of this, attendance is factored into a student's overall grade in this course. Students are responsible for ensuring they arrive to class on time and prepared for the day's activities.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should arrive to class sessions, practical sessions, and lab sessions on time. These times are:
+  - Class Session: Monday and Wednesday from 10:40 am - 11:40 am
+  - Practical Session: Friday from 10:40 am - 11:40 am
+  - Laboratory Session: Tuesday from 2:50 pm - 4:40 pm
+- Students should give at least one week prior notice if they will be late to class, have conflicts with other classes, or will be absent before the class begins.
+- Students should come to class prepared by completing labs, completing practicals, and reading Discord to know any information needed for lessons.
+- Students who are late should check in with the professor and their classmates after class in order to stay caught up with work.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not arrive late to class or labs unless they have a valid excuse.
+- Students should not be absent from class or lab unless it is an excused absence or if you have communicated the situation with the professor.
+- Students should not come to book club class sessions without reading the assigned materials beforehand.
 
 ### Deadlines
 
-TODO: Write an introductory paragraph.
+Meeting deadlines is extremely important and ensuring that work is completed on time, if not earlier, is vital to staying on track for the semester and keeping your group moving forward. Work should be submitted before deadlines and with time for reviews to be conducted and edits to be made.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should submit their work before the given deadline.
+- Students should contact the professor and make special arrangements for their assignments if they have conflicts/emergencies.
+- Students should be aware of deadlines and get assistance for assignments prior to end of deadlines.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not forget to be mindful of assignment due dates and work on them accordingly.
+- Students should not request an extension unless they are facing a serious and extenuating circumstance.
+- Students should not forget to contact the professor as soon as possible when they have a situation where they need an extension.
 
 ### Communication
 
