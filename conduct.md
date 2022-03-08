@@ -96,9 +96,9 @@ Decisions are the process by which team members collectively discuss their proje
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not talk over others or prevent others from submitting their ideas.
+- Students should not commit and push code that falls outside of the group's initial intent for a project.
+- Students should update documentation or code in ways that are consistent with the decisions made by the team.
 
 ### Postmortems
 
