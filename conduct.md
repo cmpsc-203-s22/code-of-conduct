@@ -15,7 +15,6 @@ Overall conduct is the general way students are expected to behave during any in
 
 #### Unacceptable Conduct
 
-- Students should not hold onto their opinions to avoid hurting someone's feelings.
 - Students should not disparage others or prevent others from expressing opinions.
 - Students should not take criticism personally and should provide constructive criticism to others.
 - Students should not do group work that is already assigned to other team members.
@@ -94,13 +93,13 @@ Decisions are the process by which team members collectively discuss their proje
 - Teams should consider and discuss all possible ideas of each student before moving forward.
 - Teams should document how they reached the final decisions.
 - Teams should make space for quieter voices on the team to speak.
-- Students should not take final decisions personally.
 
 #### Unacceptable Conduct
 
 - Students should not talk over others or prevent others from submitting their ideas.
 - Students should not commit and push code that falls outside of the group's initial intent for a project.
-- Students should update documentation or code in ways that are consistent with the decisions made by the team.
+- Students should not update documentation or code in ways that are inconsistent with the decisions made by the team.
+- Students should not take final decisions personally.
 
 ### Postmortems
 
