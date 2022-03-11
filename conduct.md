@@ -4,19 +4,20 @@
 
 ### Overall Conduct
 
-TODO: Write an introductory paragraph.
+Overall conduct is the general way students are expected to behave during any interaction within this class.  To be successful, students should read and follow all parts of the conduct guide.  Aside from this guide, students should abide by the Honor Code for all submitted work and adhere to the three pillars--humility, respect, and trust--in all aspects of this course.  
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should be respectful to the professor and peers.
+- Students should finish work on time and ask for help if it is needed.
+- Students should be attentive in class and utilize the material to finish assignments.
+- Students should come to class having done the readings and be prepared to engage in discussions or activities.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not disparage others or prevent others from expressing opinions.
+- Students should not take criticism personally and should provide constructive criticism to others.
+- Students should not do group work that is already assigned to other team members.
 
 ### Attendance
 
@@ -88,35 +89,37 @@ Participation for students will be based on a multitude of factors. We all have 
 
 ### Decisions
 
-TODO: Write an introductory paragraph.
+Decisions are the process by which team members collectively discuss their project ideas, define their goals, analyze problems, and make plans to achieve the goal. Teams must have a clearly defined process for making decisions before they start their projects so that they can effectively communicate with each other and make important decisions that enable them to write successful and sustainable software.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Teams should finalize decisions when the team reaches a majority vote.
+- Teams should consider and discuss all possible ideas of each student before moving forward.
+- Teams should document how they reached the final decisions.
+- Teams should make space for quieter voices on the team to speak.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not talk over others or prevent others from submitting their ideas.
+- Students should not commit and push code that falls outside of the group's initial intent for a project.
+- Students should not update documentation or code in ways that are inconsistent with the decisions made by the team.
+- Students should not take final decisions personally.
 
 ### Postmortems
 
-TODO: Write an introductory paragraph.
+Postmortems are an evaluation of performances after implementation. The goal is to identify what worked and what did not and describe what needed to be done differently. When a postmortem is done correctly, all team members should have a better understanding of how to avoid the same mistakes in future projects.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should reflect on what went right or wrong with a particular process.
+- Students should provide constructive feedback based on their reflections.
+- Students should document these findings and amend the process to prevent the same mistakes.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should avoid omitting failures and should detail the causes for errors.
+- Students should not direct the blame for failures on any particular person.
+- Students should not write vaguely about failures or mention an issue without going into detail.
 
 ### Conflicts
 
